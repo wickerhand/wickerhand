@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Wicker 👋
 
 - 🔭 Phidelis
+- 🌱 PHP
 - 🌱 NodeJs
 - 📫 contact me at wickerhand@gmail.com
 - ⚡ Full Stack developer
