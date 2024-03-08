@@ -1,4 +1,4 @@
-### Olá! Eu sou o Wicker 👋
+## Olá! Eu sou o Wicker 👋
 
 - 🔭 OpenToWork
 
@@ -8,8 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickerhand&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-### Já trabalhei com:
----
+## Já trabalhei com:
+
 <div>
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />        
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
