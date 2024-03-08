@@ -1,18 +1,16 @@
 ### Olá! Eu sou o Wicker 👋
 
 - 🔭 OpenToWork
-- 🌱 PHP
-- 🌱 NodeJs
-- 📫 contact me at wickerhand@gmail.com
-- ⚡ Full Stack developer
 
 <div>
   <a href="https://github.com/wickerhand">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wickerhand&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickerhand&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    ### Já trabalhei com:
 <div>
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />        
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nodejs-original.svg" />        
 </div>
   <!--
 <div style="display: inline_block"><br>
