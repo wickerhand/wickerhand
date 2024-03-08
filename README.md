@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickerhand&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div>
-  <i class="devicon-nestjs-original colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />        
 </div>
   <!--
 <div style="display: inline_block"><br>
