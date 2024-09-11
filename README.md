@@ -15,7 +15,7 @@
 <div>
   
   <img align="center" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/css3-original.svg" />
+  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
