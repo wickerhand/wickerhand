@@ -56,9 +56,6 @@
   <a href="https://www.linkedin.com/in/wicker-galiano-borghardt-hand/" target="_blank" rel="nofollow">
     <img align="center" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
   </a>
-  <a href="mailto:wickerhand@gmail.com" target="_blank">
-    <img align="center" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" style="max-width: 100%;">
-  </a>
 </div>
   <!--
 <div style="display: inline_block"><br>
